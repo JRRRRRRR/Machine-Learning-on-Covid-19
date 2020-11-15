@@ -23,7 +23,7 @@ Machine Learning on Covid-19
 # Recommendation
 * For residents: Even though covid-19 of some states are stable, we still can not relax our guard. Covid-19 is a serious problem in our life, and spreads very quickly. In some dangerous states, such as New York State, there is a rick of rebound. What we can do now is staying at home and keep safe. Do not travel around, especially some dangerous states.
 
-* For analysts: gridsearchCV is a very useful tool to help us tune model parameters.
+* For analysts: GridsearchCV is a very useful tool to help us tune model parameters.
 
 # Future Work
 * Accuracy: Find a better or some better parameters to improve accuracy
