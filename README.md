@@ -1,12 +1,12 @@
 # Pharse-3-Project
 Machine Learning on Covid-19
 # Introduction
-* In 2020 and the future, covid-19 will be a hot topic and a big chanllenge for our human. For my health and life, I am tracking the covid status all the times. For the machine learning practice, I am going to make a project related to Covid-19. In this project, I'll be working with the Covid-19 dataset until 2020/11/10 from https://covidtracking.com/data/download. 
+* In 2020 and the future, covid-19 will be a hot topic and a big challenge for our human. For my health and life, I am tracking the covid status all the times. For the machine learning practice, I am going to make a project related to Covid-19. In this project, I'll be working with the Covid-19 dataset until 2020/11/10 from https://covidtracking.com/data/download. 
 * Business problems: The dateset are sorted by every state daily. I am going to look for the most dangerous state first. Then, I will analyze it deeper to see how the status of this state now. At last, I will use machine learning to make a classification model to predict the covid-19 quality grade daily. 
 1. The Most Dangerous State
     * Find the most dangerous state by total death cases and daily death cases. 
     * Find the most dangerous state by total positive cases and daily positive cases.
-2. The statu now of this state
+2. The Status now of this State
     * Visualization of the death cases increasing daily.
     * Visualization of the positive cases increasing daily.
 3. Classification model to predict the covid-19 quality grade daily
@@ -27,6 +27,7 @@ Machine Learning on Covid-19
 
 # Future Work
 * Accuracy: Find a better or some better parameters to improve accuracy
+* Overfitting: Deal with the overfitting of random forest model and XGBoost model
 * More analyses: Try analyse other columns of the dataset
 * Death Rate: The death rate of New York state is high. Try to find some reasons and realted data.
  
