@@ -28,7 +28,7 @@ Machine Learning on Covid-19
 # Future Work
 * Accuracy: Find a better or some better parameters to improve accuracy
 * Overfitting: Deal with the overfitting of random forest model and XGBoost model
-* More analyses: Try analyse other columns of the dataset
+* More analyses: Try analyse other columns of the dataset, such as recover
 * Death Rate: The death rate of New York state is high. Try to find some reasons and realted data.
  
 # Summary
