@@ -1,4 +1,4 @@
-# Pharse-3-Project
+# Phase-3-Project
 Machine Learning on Covid-19
 # Introduction
 * In 2020 and the future, covid-19 will be a hot topic and a big challenge for our human. For my health and life, I am tracking the covid status all the times. For the machine learning practice, I am going to make a project related to Covid-19. In this project, I'll be working with the Covid-19 dataset until 2020/11/10 from https://covidtracking.com/data/download. 
